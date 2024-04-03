@@ -19,4 +19,6 @@ Dejaremos un tiempo al principio de clase para que todo el mundo pueda resolver 
 
 ## Diseño esperado
 
+![image](https://github.com/omiras/profile-card/assets/3286458/4711b273-9d5a-4ac0-ae92-9ab915be4b1b)
+
 [Video](https://oscarm.tinytake.com/msc/ODc0MjgwN18yMjE0NzQ2OQ)
